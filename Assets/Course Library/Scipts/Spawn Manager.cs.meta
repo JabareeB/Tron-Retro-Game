@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ba8a23e357482fc439d8b6f7103525a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - opponentLightCyclePrefab: {fileID: 5266448796344552140, guid: 13e302687d575d44fa2f37cbcd6bc923, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
